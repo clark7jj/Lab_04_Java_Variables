@@ -36,7 +36,6 @@ System.out.println("The product using doubles of " + doubleOperandA + " and " + 
 doubleQuotient = doubleOperandA / doubleOperandB; // Assignment that uses the arithmetic operator /
 System.out.println("The quotient using doubles of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleQuotient); // Output statement;
 
-
 // TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
     // to see how IntelliJ IDEA suggests fixing it.
     IO.println(String.format("Hello and welcome!"));
